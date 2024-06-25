@@ -1,0 +1,11 @@
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\bin\Debug\SoundCalc.exe.config
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\bin\Debug\SoundCalc.exe
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\bin\Debug\SoundCalc.pdb
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.csproj.AssemblyReference.cache
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.Form1.resources
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.Properties.Resources.resources
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.csproj.GenerateResource.cache
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.exe
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\obj\Debug\SoundCalc.pdb
+C:\Users\VIKTOR\source\repos\SoundCalc\SoundCalc\bin\Debug\Products1.mdb
